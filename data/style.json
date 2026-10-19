@@ -1,0 +1,30 @@
+{
+  "background": "#f5f5f0",
+  "ink": "#25332f",
+  "muted": "#78817b",
+  "accent": "#467763",
+  "visitor": "#f04bd7",
+  "staff": "#2dbd42",
+  "delivery": "#2879ff",
+  "public": "#ffe5ff",
+  "employee": "#ffffb2",
+  "secure": "#a7f78b",
+  "outlineWidth": 1.4,
+  "contextWidth": 0.5,
+  "executive": "#ecb1ff",
+  "leader": "#f19b18",
+  "route": {
+    "width": 11.2,
+    "haloWidth": 14.4,
+    "arrowOutline": 1.2,
+    "reference": {
+      "source": "10.gif",
+      "shaftThickness": 43,
+      "dashLength": 28,
+      "gap": 28,
+      "headLength": 92,
+      "headHeight": 130,
+      "headGap": 22
+    }
+  }
+}

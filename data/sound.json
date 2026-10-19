@@ -1,0 +1,67 @@
+{
+  "volume": 0.38,
+  "enabled": true,
+  "note": "Web Audioによる短いオリジナル合成音。初回は音付き再生ボタンで有効化。",
+  "events": [
+    {
+      "time": 0.2,
+      "type": "open"
+    },
+    {
+      "time": 6.2,
+      "type": "chapter"
+    },
+    {
+      "time": 12.2,
+      "type": "flow"
+    },
+    {
+      "time": 13.45,
+      "type": "arrival"
+    },
+    {
+      "time": 14.2,
+      "type": "flow"
+    },
+    {
+      "time": 15.5,
+      "type": "arrival"
+    },
+    {
+      "time": 16.2,
+      "type": "flow"
+    },
+    {
+      "time": 17.5,
+      "type": "arrival"
+    },
+    {
+      "time": 19.25,
+      "type": "layers"
+    },
+    {
+      "time": 20.6,
+      "type": "arrival"
+    },
+    {
+      "time": 21.8,
+      "type": "chapter"
+    },
+    {
+      "time": 24.4,
+      "type": "chapter"
+    },
+    {
+      "time": 27.3,
+      "type": "support"
+    },
+    {
+      "time": 34.3,
+      "type": "chapter"
+    },
+    {
+      "time": 40.3,
+      "type": "finale"
+    }
+  ]
+}

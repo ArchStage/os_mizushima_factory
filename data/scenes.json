@@ -1,0 +1,257 @@
+[
+  {
+    "id": "01",
+    "title": "工場の顔",
+    "headline": "最初に出会う場所を、わかりやすく。",
+    "body": "臨港道路に面する入口に、守衛と玄関を明快に配置。来訪者を迷わせない「工場の顔」をつくります。",
+    "note": "入口の位置が、安心につながる。",
+    "start": 0,
+    "duration": 6,
+    "source": "p.1–2,8",
+    "state": {
+      "separation": 0,
+      "explode": 0,
+      "zone": 0,
+      "visitor": 0,
+      "staff": 0,
+      "delivery": 0,
+      "bcp": 0,
+      "detail": 1,
+      "context": 0.35,
+      "cutaway": 0
+    },
+    "transition": "power2.inOut / 1.4秒、以後は読むための静止",
+    "elements3d": [
+      "敷地・構内道路",
+      "事務所棟・更衣室棟",
+      "駐車場"
+    ],
+    "elements2d": [
+      "短文タイトル",
+      "3Dアンカー注釈（最大2件）",
+      "出典"
+    ],
+    "animation": "全体の静かな俯瞰",
+    "camera": "全体アクソノメトリック",
+    "next": "配置を整える"
+  },
+  {
+    "id": "02",
+    "title": "配置を整える",
+    "headline": "離すことで、関係が整う。",
+    "body": "事務所棟と更衣室棟を分け、正門近くに来客駐車場を集約。来客が生産エリアの奥へ入らずに到着できる構成です。",
+    "note": "２棟 + 正門近くの駐車場",
+    "start": 6,
+    "duration": 6,
+    "source": "p.2,8,11",
+    "state": {
+      "separation": 1,
+      "explode": 0,
+      "zone": 0,
+      "visitor": 0,
+      "staff": 0,
+      "delivery": 0,
+      "bcp": 0,
+      "detail": 0.65,
+      "context": 0.2,
+      "cutaway": 0
+    },
+    "transition": "power2.inOut / 1.4秒、以後は読むための静止",
+    "elements3d": [
+      "敷地・構内道路",
+      "事務所棟・更衣室棟",
+      "駐車場"
+    ],
+    "elements2d": [
+      "短文タイトル",
+      "3Dアンカー注釈（最大2件）",
+      "出典"
+    ],
+    "animation": "2棟の関係を補助線で示す",
+    "camera": "入口側の鳥瞰方向を保ち、守衛・玄関・駐車場の関係へ寄る",
+    "next": "流れを分ける"
+  },
+  {
+    "id": "03",
+    "title": "流れを分ける",
+    "headline": "それぞれに、迷わない道を。",
+    "body": "屋根と上階を透かして、1階の流れを見る。来客は守衛・事務課の受付へ、職員は更衣室と通用口へ。納品は受付から専用の搬送機へつなぎます。",
+    "note": "1階の3D平面に、利用者ごとの動線を重ねる",
+    "start": 12,
+    "duration": 7,
+    "source": "p.2–3,8–9",
+    "state": {
+      "separation": 1,
+      "explode": 0,
+      "zone": 0,
+      "visitor": 1,
+      "staff": 1,
+      "delivery": 1,
+      "bcp": 0,
+      "detail": 0.55,
+      "context": 0.15,
+      "cutaway": 1
+    },
+    "transition": "power2.inOut / 1.4秒、以後は読むための静止",
+    "elements3d": [
+      "敷地・構内道路",
+      "事務所棟・更衣室棟",
+      "駐車場",
+      "3種類の経路"
+    ],
+    "elements2d": [
+      "短文タイトル",
+      "3Dアンカー注釈（最大2件）",
+      "出典"
+    ],
+    "animation": "線を来客・職員・納品の順に伸ばす",
+    "camera": "動線が読める俯瞰",
+    "next": "情報を守る"
+  },
+  {
+    "id": "04",
+    "title": "情報を守る",
+    "headline": "迎える場所と、\n働く場所を分ける。",
+    "body": "1階は受付・会議と分析関連、2階は分析・会議、3階は執務。壁・柱・家具の3D模型で、各階の配置と使う人の違いを読み解きます。",
+    "note": "1F → 2F → 3F の順に、各階を強調",
+    "start": 19,
+    "duration": 8,
+    "source": "p.3,9（着色はp.9の平面図凡例）",
+    "state": {
+      "separation": 0,
+      "explode": 1,
+      "zone": 1,
+      "visitor": 0,
+      "staff": 0,
+      "delivery": 0,
+      "bcp": 0,
+      "detail": 0,
+      "context": 0.08,
+      "cutaway": 0
+    },
+    "transition": "power2.inOut / 1.4秒、以後は読むための静止",
+    "elements3d": [
+      "敷地・構内道路",
+      "事務所棟・更衣室棟",
+      "駐車場",
+      "階別の分解・ゾーン"
+    ],
+    "elements2d": [
+      "短文タイトル",
+      "3Dアンカー注釈（最大2件）",
+      "出典"
+    ],
+    "animation": "階を分解し、1階・2階・3階の3D平面を順に強調。PDF画像は表示しない。",
+    "camera": "事務所棟中心の分解アクソノメトリック",
+    "next": "工場を支える"
+  },
+  {
+    "id": "05",
+    "title": "工場を支える",
+    "headline": "重要な機能を、上階へ。",
+    "body": "重要なデータ・通信設備は２階、空調室外機・キュービクルは屋上へ。２階会議室を災害対策拠点として計画します。",
+    "note": "設備配置によるBCPへの備え",
+    "start": 27,
+    "duration": 7,
+    "source": "p.4,9–10",
+    "state": {
+      "separation": 0,
+      "explode": 0.35,
+      "zone": 0,
+      "visitor": 0,
+      "staff": 0,
+      "delivery": 0,
+      "bcp": 1,
+      "detail": 0.2,
+      "context": 0.12,
+      "cutaway": 0
+    },
+    "transition": "power2.inOut / 1.4秒、以後は読むための静止",
+    "elements3d": [
+      "敷地・構内道路",
+      "事務所棟・更衣室棟",
+      "駐車場",
+      "屋上設備・2階拠点"
+    ],
+    "elements2d": [
+      "短文タイトル",
+      "3Dアンカー注釈（最大2件）",
+      "出典"
+    ],
+    "animation": "屋上・2階を限定して強調",
+    "camera": "事務所棟の上階中心",
+    "next": "働く場を整える"
+  },
+  {
+    "id": "06",
+    "title": "働く場を整える",
+    "headline": "端正な外観。変化に応える内部。",
+    "body": "水平・垂直の線を整え、材料と色数を統一。採光への配慮とOAフロア・可動間仕切により、働きやすさと可変性を目指します。",
+    "note": "快適性 / 可変性 / 利便性",
+    "start": 34,
+    "duration": 6,
+    "source": "p.1,3,10",
+    "state": {
+      "separation": 0,
+      "explode": 0,
+      "zone": 0,
+      "visitor": 0,
+      "staff": 0,
+      "delivery": 0,
+      "bcp": 0,
+      "detail": 1,
+      "context": 0.2,
+      "cutaway": 0
+    },
+    "transition": "power2.inOut / 1.4秒、以後は読むための静止",
+    "elements3d": [
+      "敷地・構内道路",
+      "事務所棟・更衣室棟",
+      "駐車場"
+    ],
+    "elements2d": [
+      "短文タイトル",
+      "3Dアンカー注釈（最大2件）",
+      "出典"
+    ],
+    "animation": "外形に戻し水平線と開口を表示",
+    "camera": "やや低い外観アクソノメトリック",
+    "next": "ひとつの価値へ"
+  },
+  {
+    "id": "07",
+    "title": "ひとつの価値へ",
+    "headline": "迎える。分ける。工場を支える。",
+    "body": "明快な入口、整理された動線、段階的なセキュリティ。日々の工場運営と非常時の対応を支える、新しい事務所です。",
+    "note": "完成全景で、迎える・分ける・支えるを総括",
+    "start": 40,
+    "duration": 5,
+    "source": "p.1–4",
+    "state": {
+      "separation": 0,
+      "explode": 0,
+      "zone": 0,
+      "visitor": 0,
+      "staff": 0,
+      "delivery": 0,
+      "bcp": 0,
+      "detail": 1,
+      "context": 0.3,
+      "cutaway": 0
+    },
+    "transition": "power2.inOut / 1.4秒、以後は読むための静止",
+    "elements3d": [
+      "敷地・構内道路",
+      "事務所棟・更衣室棟",
+      "駐車場"
+    ],
+    "elements2d": [
+      "短文タイトル",
+      "3Dアンカー注釈（最大2件）",
+      "出典"
+    ],
+    "animation": "全体に戻り2.5秒以上静止",
+    "camera": "初期全景へ戻る",
+    "next": "静止して終了 / 再生で冒頭へ"
+  }
+]
