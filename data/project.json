@@ -66,6 +66,12 @@
       "image": "assets/entrance-perspective.jpg",
       "page": "PDF p.6 / 図面14 / 2026.08.31",
       "text": "提供外観パースの入口側。連続縦窓、ガラス面、1階の庇、段差処理と植栽の関係を模型の参照に使用。外構の細部寸法と樹種は模式。"
+    },
+    {
+      "title": "更衣室棟の平面",
+      "image": "assets/locker-plan-1.png",
+      "page": "PDF p.11／更衣室棟1階平面図",
+      "text": "男女の更衣・浴室などの用途と入口の配置を参照。2階は各階平面図の「更衣2F」から確認できます。"
     }
   ],
   "uncertainties": [
