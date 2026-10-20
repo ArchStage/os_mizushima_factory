@@ -14,17 +14,12 @@
   "executive": "#ecb1ff",
   "leader": "#f19b18",
   "route": {
-    "width": 11.2,
-    "haloWidth": 14.4,
-    "arrowOutline": 1.2,
-    "reference": {
-      "source": "10.gif",
-      "shaftThickness": 43,
-      "dashLength": 28,
-      "gap": 28,
-      "headLength": 92,
-      "headHeight": 130,
-      "headGap": 22
-    }
+    "dotRadius": 5.5,
+    "dotPitch": 23,
+    "dotHalo": 2.4,
+    "note": "画面幅1100px基準。●の半径・中心間隔を維持し、終端に同色の矢印。最後の●と矢印の間に余白を確保。経路の実幅ではない。",
+    "headLength": 16,
+    "headWidth": 18,
+    "headGap": 6
   }
 }
