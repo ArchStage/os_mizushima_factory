@@ -1,9 +1,11 @@
 {
-  "title": "工場へ。建築へ。空間へ。",
+  "title": "工場の風景から、\n迎える空間へ。",
   "subtitle": "大阪ソーダ 水島工場 新事務所",
   "durationLabel": "42秒",
   "src": "assets/mizushima-film-1026.mp4",
-  "poster": "assets/mizushima-film-poster.jpg",
+  "poster": "assets/render-exterior-1023.jpg",
+  "autoStory": true,
+  "promise": "迎える。分ける。支える。",
   "source": "提供動画「水島.mp4」／計画イメージ",
   "chapters": [
     {"time": 0, "number": "01", "title": "工場へ", "description": "周辺から、計画地へ近づく。"},
