@@ -5,9 +5,9 @@
       "id": "exterior",
       "title": "外観｜玄関と庇",
       "caption": "入口と、1階をつなぐ庇を地上の視点から見る。",
-      "source": "提供外観パース（修正 1020）",
-      "image": "assets/render-exterior.jpg",
-      "thumbnail": "assets/render-exterior-thumb.jpg"
+      "source": "提供差替え外観パース（1023フォルダー／2026-10-26受領）",
+      "image": "assets/render-exterior-1023.jpg",
+      "thumbnail": "assets/render-exterior-1023-thumb.jpg"
     },
     {
       "id": "bird",
@@ -21,17 +21,9 @@
       "id": "hall",
       "title": "玄関ホール｜受付の風景",
       "caption": "玄関ホールと、ガラス越しの事務課受付の関係を見る。",
-      "source": "提供内観パース（0924）",
-      "image": "assets/render-hall.jpg",
-      "thumbnail": "assets/render-hall-thumb.jpg"
-    },
-    {
-      "id": "exterior-ai",
-      "title": "外観｜仕上がりのイメージ",
-      "caption": "植栽・人を含めた外観の参考イメージ。",
-      "source": "提供画像（ファイル名にAI表記）／形状・植栽の確定根拠には使用しません",
-      "image": "assets/render-exterior-ai.jpg",
-      "thumbnail": "assets/render-exterior-ai-thumb.jpg"
+      "source": "提供差替え内観パース（1023フォルダー／2026-10-26受領）",
+      "image": "assets/render-hall-1023.jpg",
+      "thumbnail": "assets/render-hall-1023-thumb.jpg"
     }
   ]
 }
